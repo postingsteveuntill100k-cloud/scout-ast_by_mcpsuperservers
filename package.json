@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postingsteveuntill100k-cloud/scout-ast_by_mcpsuperservers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/postingsteveuntill100k-cloud/scout-ast_by_mcpsuperservers/issues"
+  },
+  "homepage": "https://github.com/postingsteveuntill100k-cloud/scout-ast_by_mcpsuperservers#readme",
+  "dependencies": {
+    "playwright": "^1.62.1"
+  }
+}
